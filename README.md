@@ -7,7 +7,6 @@ A basic Android application built using **Kotlin**, **PHP**, and **MySQLite**. T
 - User authentication (Sign up & Login)
 - Create, edit, and delete blog posts
 - View a list of blogs
-- Like and comment on posts
 - Local database management using SQLite
 - API integration with PHP backend
 
